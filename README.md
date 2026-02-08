@@ -44,5 +44,4 @@ This project helped me strengthen my skills in **data visualization, KPI analysi
 These insights demonstrate how visualization can support business decisions.
 
 ---
-## 📂 Repository Structure
-
+## 📂 Repository Str
